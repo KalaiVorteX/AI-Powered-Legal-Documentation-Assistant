@@ -1,17 +1,28 @@
-# AI-Powered-Legal-Documentation-Assistant
-The AI-Powered Legal Documentation Assistant is a web application designed to assist users in drafting, analyzing, and researching legal documents. The application leverages AI to provide insights and analysis on uploaded documents, making it easier to handle legal paperwork efficiently
-Features
-Document Drafting: Allows users to draft and preview legal documents.
-Document Analysis: Analyzes uploaded documents using AI to identify potential issues and provide insights.
-Legal Research: Simulates a search for legal precedents based on user queries.
-User Dashboard: Displays real-time updates and upcoming deadlines.
-Installation
+# AI-Powered Legal Documentation Assistant
+
+## Overview
+
+The AI-Powered Legal Documentation Assistant is a web application designed to assist users in drafting, analyzing, and researching legal documents. The application leverages AI to provide insights and analysis on uploaded documents, making it easier to handle legal paperwork efficiently.
+
+## Features
+
+- **Document Drafting:** Allows users to draft and preview legal documents.
+- **Document Analysis:** Analyzes uploaded documents using AI to identify potential issues and provide insights.
+- **Legal Research:** Simulates a search for legal precedents based on user queries.
+- **User Dashboard:** Displays real-time updates and upcoming deadlines.
+
+## Installation
+
 To set up and run the project locally, follow these steps:
 
-Prerequisites
-Node.js (for managing dependencies and running local server)
-A code editor like Visual Studio Code
-Clone the Repository
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (for managing dependencies and running local server)
+- A code editor like [Visual Studio Code](https://code.visualstudio.com/)
+
+### Clone the Repository
+
+```bash
 git clone https://github.com/your-username/ai-legal-doc-assistant.git
 cd ai-legal-doc-assistant
 Install Dependencies
@@ -88,13 +99,13 @@ This project is licensed under the MIT License.
 Contact
 For any questions or feedback, you can contact the project creator:
 
-Name: KALAIMANI.R
-Email: kalaimanir1661@gmail.com
-LinkedIn: https://www.linkedin.com/in/kalaimani-r-34195b2b7
+Name: Sam D
+Email: dsam5238@gmail.com
+LinkedIn: 
 markdown
 Copy code
 
 ### **Notes:**
-- Replace `https://github.com/KalaiVorteX/ai-legal-doc-assistant.git` with the actual repository URL.
+- Replace `https://github.com/Samrocz05/ai-legal-doc-assistant.git` with the actual repository URL.
 - Update the `YOUR_API_KEY` placeholder with the actual API key.
 - If the project setup or folder structure is different, adjust the instructions accordingly.
