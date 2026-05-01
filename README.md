@@ -6,10 +6,10 @@ The AI-Powered Legal Documentation Assistant is a web application designed to as
 
 ## Features
 
-- *Document Drafting:* Allows users to draft and preview legal documents.
-- *Document Analysis:* Analyzes uploaded documents using AI to identify potential issues and provide insights.
-- *Legal Research:* Simulates a search for legal precedents based on user queries.
-- *User Dashboard:* Displays real-time updates and upcoming deadlines.
+- **Document Drafting:** Allows users to draft and preview legal documents.
+- **Document Analysis:** Analyzes uploaded documents using AI to identify potential issues and provide insights.
+- **Legal Research:** Simulates a search for legal precedents based on user queries.
+- **User Dashboard:** Displays real-time updates and upcoming deadlines.
 
 ## Installation
 
@@ -22,7 +22,7 @@ To set up and run the project locally, follow these steps:
 
 ### Clone the Repository
 
-bash
+```bash
 git clone https://github.com/your-username/ai-legal-doc-assistant.git
 cd ai-legal-doc-assistant
 Install Dependencies
@@ -99,6 +99,13 @@ This project is licensed under the MIT License.
 Contact
 For any questions or feedback, you can contact the project creator:
 
-Name: KALAIMANI.R
-Email: kalaimanir1661@gmail.com
-LinkedIn: # AI-Powered Legal Documentation Assistant
+Name: Sam D
+Email: dsam5238@gmail.com
+LinkedIn: Sam D
+markdown
+Copy code
+
+### **Notes:**
+- Replace `https://github.com/Samrocz05/ai-legal-doc-assistant.git` with the actual repository URL.
+- Update the `YOUR_API_KEY` placeholder with the actual API key.
+- If the project setup or folder structure is different, adjust the instructions accordingly.
